@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin774&label=Profile%20views&color=0e75b6&style=flat" alt="nitin774" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitin774" alt="nitin774" /></a> </p>
-
 - 🔭 I’m currently working on [IVF Management System](https://sunrise.tryasp.net)
 
 - 🌱 I’m currently learning **AWS basics, Docker and unit testing with xUnit**
